@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "439429707623",
+    "firebase_url": "https://mborala-be395.firebaseio.com",
+    "project_id": "mborala-be395",
+    "storage_bucket": "mborala-be395.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:439429707623:android:70b8588226a19e71",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.mborala.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "439429707623-8hctmu04nnhrbekv2ftqnra2lejb8mof.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyD_E6zQND_WbzA86qlpTzE9UHNbp8DiU2s"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439429707623-8hctmu04nnhrbekv2ftqnra2lejb8mof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
